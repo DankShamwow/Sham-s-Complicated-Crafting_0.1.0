@@ -1,0 +1,9 @@
+{
+  "name": "Sham's Complicated Crafting",
+  "version": "0.1.0",
+  "factorio_version": "0.15",
+  "title": "Sham's Complicated Crafting",
+  "author": "DankShamwow",
+  "dependencies": ["base >= 0.15"],
+  "description": "Adds various machines that add extra steps to basic products to make the game needlessly complex."
+}
